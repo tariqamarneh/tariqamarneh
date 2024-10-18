@@ -8,8 +8,19 @@ Software Development Engineer (SDE L4) @ Amazon | Full-Stack Developer | AI Enth
 
 * 🌍  I'm based in Amman, Jordan
 * ✉️  You can contact me at [tariqs.naser@gmail.com](mailto:tariqs.naser@gmail.com)
-* 🧠  I'm learning Spring Boot
 * 🤝  I'm open to collaborating on Projects
+
+### 🔥 Highlights
+
+* 🎉 Recently joined Amazon as an SDE L4
+* 💻 Freelancing under the business name RefMe
+* 🏆 Built scalable AI-driven apps and notification systems during my internships and freelance work
+
+### 🌱 I’m Currently Learning
+* Advanced Kubernetes & Microservices
+* Enhancing my skills in Cloud-Native Development & DevOps
+* Exploring Distributed Systems at scale
+
 
 ### Skills
 
