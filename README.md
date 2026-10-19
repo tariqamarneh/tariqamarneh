@@ -15,6 +15,10 @@ I build production AI agents that run real conversations for businesses on Whats
 - **Production reliability.** Hunting a native memory leak with jemalloc heap profiles, taking a live AI codebase to strict mypy, and keeping LangSmith tracing useful while cutting its cost.
 - **Knowledge bases.** Ingestion, retrieval, and detecting when two articles in a business's knowledge base contradict each other.
 
+### Open source
+
+- [**python-leak-hunter**](https://github.com/tariqamarneh/python-leak-hunter): find memory leaks in long-running Python services. Shows what accumulates per request, what keeps it alive (down to "held by a C extension"), and adds a pytest check so the leak stays fixed. Ships as an agent skill for Claude Code and Codex.
+
 ### Writing
 
 - [The leak the garbage collector couldn't see](https://www.tariqamarneh.com/writing/grpc-contextvars-memory-leak): a gRPC + `contextvars` leak that pinned whole agent graphs in memory
