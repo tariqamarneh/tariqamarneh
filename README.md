@@ -4,7 +4,7 @@
 
 I build production AI agents that run real conversations for businesses on WhatsApp, and the backend systems behind them: agent graphs with LangGraph, retrieval on vector databases, evaluation and tracing with LangSmith, and the Python, Kotlin and Java services that keep it all running on Google Cloud.
 
-[**Portfolio**](https://www.tariqamarneh.com) · [**CV (PDF)**](https://www.tariqamarneh.com/Tariq-Amarneh-CV.pdf) · [**Writing**](https://www.tariqamarneh.com/writing) · [LinkedIn](https://www.linkedin.com/in/tariq-amarneh/) · [X](https://x.com/Tariqamarnehh) · [Email](mailto:tariqs.naser@gmail.com)
+[**Portfolio**](https://www.tariqamarneh.com) · [**CV (PDF)**](https://www.tariqamarneh.com/Tariq-Amarneh-CV.pdf) · [**Writing**](https://www.tariqamarneh.com/writing) · [Medium](https://medium.com/@tariqamarneh) · [LinkedIn](https://www.linkedin.com/in/tariq-amarneh/) · [X](https://x.com/Tariqamarnehh) · [Email](mailto:tariqs.naser@gmail.com)
 
 ---
 
